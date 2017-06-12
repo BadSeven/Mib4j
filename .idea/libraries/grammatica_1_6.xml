@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="grammatica-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/grammatica-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mibble-parser-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snmp6_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
